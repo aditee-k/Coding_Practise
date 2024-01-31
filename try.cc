@@ -29,7 +29,7 @@ int MaxProduct(int arr[], int length)
 int main()
 {
     int n,i;
-    cout << "Enter number of elements: ";
+    cout << "Enter number of elements = ";
     cin >> n;
     int arr[n];
     cout << "Enter the elements:\n";
